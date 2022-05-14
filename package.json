@@ -1,0 +1,30 @@
+{
+  "name": "@ken-matsui/eslint-config-typescript",
+  "version": "0.1.0",
+  "description": "Shared ESLint config for Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ken-matsui/eslint-config-typescript.git"
+  },
+  "author": "Ken Matsui <26405363+ken-matsui@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ken-matsui/eslint-config-typescript/issues"
+  },
+  "homepage": "https://github.com/ken-matsui/eslint-config-typescript#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.17.0",
+    "@typescript-eslint/parser": "^5.17.0",
+    "eslint-plugin-import": "^2.25.4"
+  },
+  "peerDependencies": {
+    "eslint": ">= 8"
+  }
+}
