@@ -16,9 +16,6 @@
     "url": "https://github.com/ken-matsui/eslint-config-typescript/issues"
   },
   "homepage": "https://github.com/ken-matsui/eslint-config-typescript#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.17.0",
     "@typescript-eslint/parser": "^5.17.0",
