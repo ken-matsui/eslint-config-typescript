@@ -1,5 +1,7 @@
 # eslint-config-typescript
 
+:warning: This project is no longer maintained. Please use [Rome](https://rome.tools) instead.
+
 ## Installation
 
 1. Run the install command
